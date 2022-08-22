@@ -1,25 +1,18 @@
-# Repositório público do Prof. Gustavo Guanabara
+# Rep. público de Maxwel Nascimento
 
-Material usado durante as minhas aulas presenciais, mas que estou organizando aqui em um repositório público para o acesso de todos.
+### Pequenos projetos feitos para estudos das linguagens: *Html*, *Css*, *javaScript*, *jQuery* ...
 
-<img align="right" src="images/mascote-html5.png" width="200">
+## Tela de Login
 
-## Curso de HTML5 e CSS3
+<img align="center" src="images/telaDeLogin.jpg" width="300">
 
-Durante as **aulas de HTML5 e CSS3**, aprendemos como criar páginas web simples, focando tanto no seu conteúdo quanto no seu design. Toda a base começa sempre com essas tecnologias. 
+Projeto feito para aprender mais sobre *javaScript*, aprendendo mais sobre *functions*, *addEventListener* dentre outras coisas.
+O alinhamento foi feito com CSS puro, usando mais *display: flex;*. Usei também *jQuery* só para colocar os *Toarts* que são os alert que coloquei, de padrão eles já vem pré-configurados só basta fazer uns pequenos ajustes para poder se adpatar a sua página do jeito que você quiser.
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
-* [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
-* [Execute os exercícios aqui](https://gustavoguanabara.github.io/html-css/exercicios/)
-* [Resolva os desafios de HTML aqui](https://github.com/gustavoguanabara/html-css/tree/master/desafios)
+### Tela será atualizada mais pra frente , assim que meus conhecimentos e experiência crescerem!
 
-<img align="right" src="images/mascote-javascript.png" width="200">
+[Para acessar a página e ver como ficou, basta clicar aqui](https://maxwelnascimento.github.io/telaDeLogin/)
 
-## Curso de JavaScript
+[Para acessar o repositório dessa página, basta clicar aqui](https://github.com/MaxwelNascimento/telaDeLogin)
 
-Durante as **aulas de JavaScript**, aprendemos como criar interações entre o usuário e nossas páginas. O JavaScript também serve bastante como primeira linguagem de programação para quem está iniciando.
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/javascript/tree/master/aulas-pdf)
-* [Código disponível para os exercícios](https://github.com/gustavoguanabara/javascript/tree/master/exercicios)
-* [Execute os exercícios aqui](https://gustavoguanabara.github.io/javascript/exercicios/)
-* [Resolva os desafios de programação JS aqui](https://github.com/gustavoguanabara/javascript/tree/master/desafios)
